@@ -1,3 +1,18 @@
+---------------------------------------------------------------------------------------------
+--  
+--   SSSSS  U    U  DDDD     OOOO   K    K  U    U
+--  S       U    U  D   D   O    O  K   K   U    U
+--   SSSS   U    U  D    D  O    O  KKKK    U    U
+--       S  U    U  D   D   O    O  K   K   U    U
+--  SSSSS    UUUU   DDDD     OOOO   K    K   UUUU
+--
+--  SUDOKU FOR MAGIC ARCADE: MONOCHROME LUA EDITION
+--  PROTOTYPE CODE
+--
+--  June Sugg
+--
+---------------------------------------------------------------------------------------------
+
 local pd <const> = playdate
 local gfx <const> = pd.graphics
 

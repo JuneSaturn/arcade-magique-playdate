@@ -1,8 +1,8 @@
 import "CoreLibs/graphics"
 import "CoreLibs/timer"
-import "games/minesweeper"
-import "games/snake"
-import "games/sudoku"
+require "games/minesweeper"
+require "games/snake"
+require "games/sudoku"
 
 local pd <const> = playdate
 local gfx <const> = pd.graphics
@@ -16,6 +16,12 @@ UI = {
     cursor = 0,
 }
 
+Coordinates = {
+    x = 0,
+    y = 0,
+}
+
+
 
 local function handleInput()
     if UI.browseMode == true then
@@ -26,7 +32,7 @@ local function handleInput()
         if pd.buttonJustPressed(pd.kButtonUp)    then
             if UI.menu == 0 then
                 if UI.cursor > 1 then
-                    UI.cursor -= 1
+                    UI.cursor = UI.cursor - 1
                 end
             elseif UI.menu == 1 then
             elseif UI.menu == 2 then
@@ -38,7 +44,7 @@ local function handleInput()
         if pd.buttonJustPressed(pd.kButtonDown)  then
             if UI.menu == 0 then
                 if UI.cursor < 4 then
-                    UI.cursor += 1
+                    UI.cursor = UI.cursor + 1
                 end
             elseif UI.menu == 1 then
             elseif UI.menu == 2 then

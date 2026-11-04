@@ -19,3 +19,15 @@ local gfx <const> = pd.graphics
 local CELL <const> = 10
 local COLS <const> = 40
 local ROWS <const> = 24
+
+-- CONSTS(MACROS) From C
+local DIR_UP           <const> = 90
+local DIR_LEFT         <const> = 180
+local DIR_DOWN         <const> = 270
+local DIR_RIGHT        <const> = 0
+local DIR_UPPER_LEFT   <const> = 135
+local DIR_UPPER_RIGHT  <const> = 45
+local DIR_BOTTOM_LEFT  <const> = 225
+local DIR_BOTTOM_RIGHT <const> = 315
+local SNAKE_MAX_LENGTH <const> = 256
+local OBSTACLE_MAX_QTY <const> = 20

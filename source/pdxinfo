@@ -1,0 +1,6 @@
+name=Magic Arcade
+author=June Saturn
+description=Monochrome Lua edition of the Magic Arcade mini game bundle.
+bundleID=com.junesaturn.arcademagique
+version=0.1
+buildNumber=1

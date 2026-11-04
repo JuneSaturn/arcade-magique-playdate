@@ -1,0 +1,9 @@
+example.lua
+.vs
+*.pdx/
+.vscode/
+.DS_Store
+.AppleDouble
+.LSOverride
+._*
+*.log

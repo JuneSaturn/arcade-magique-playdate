@@ -16,6 +16,7 @@ Sudoku = {
 
 
 
+
 -- Public functions
 function Sudoku.enter()
     -- ...
@@ -27,4 +28,13 @@ end
 -- Load local vals from outside (getter)
 function Sudoku.getCell(r, c)
     return board[r][c]
+end
+
+
+
+
+-- Main
+
+function Sudoku.main()
+    
 end

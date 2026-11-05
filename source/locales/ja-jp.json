@@ -1,0 +1,66 @@
+[
+    {
+        "lam_title": "アーケードマジック",
+        "lam_locale_lang_current": "日本語",
+        "lam_locale_region_current": "日本",
+        "lam_license": "MITライセンス",
+
+        "lam_about": "アーケードマジックについて",
+
+        "lam_std_open": "開く",
+        "lam_std_close": "閉じる",
+        "lam_std_continue": "続ける",
+        "lam_std_pause": "一時停止",
+        "lam_std_start": "開始",
+        "lam_std_back": "戻る",
+        "lam_std_ok": "OK",
+        "lam_std_cancel": "キャンセル",
+        "lam_std_yes": "はい",
+        "lam_std_no": "いいえ",
+        "lam_std_save": "保存",
+        "lam_std_load": "読み込む",
+        "lam_std_delete": "削除",
+        "lam_std_backup": "バックアップ",
+
+        "solitaire_klondike_title": "クロンダイク",
+        "solitaire_spider_title": "スパイダー",
+        "onecard_title": "ワンカード",
+        "oldmaid_title": "ババ抜き",
+        "holdem_title": "テキサスホールデム",
+        "snake_title": "スネーク",
+        "airhockey_title": "エアホッケー",
+        "sudoku_title": "数独",
+        "nonogram_title": "ノノグラム",
+        "tzfe_title": "2048",
+        "counting_title": "数えゲーム",
+        "draughts_title": "チェッカー",
+        "reversi_title": "リバーシ",
+        "chess_title": "チェス",
+        "gomoku_title": "五目並べ",
+        "backgammon_title": "バックギャモン",
+
+        "lam_diff": "難易度",
+        "lam_diff_practice": "練習",
+        "lam_diff_easy": "かんたん",
+        "lam_diff_normal": "ふつう",
+        "lam_diff_hard": "むずかしい",
+        "lam_diff_veryhard": "とてもむずかしい",
+
+        "lam_undo": "元に戻す",
+        "lam_redo": "やり直す",
+
+        "lam_param": "設定",
+        "lam_param_audio": "オーディオ",
+        "lam_param_video": "映像",
+        "lam_param_gameplay": "ゲームプレイ",
+        "lam_param_lang": "言語",
+        "lam_param_savedata": "セーブデータ",
+        "lam_param_multiplayer": "マルチプレイ",
+
+        "lam_mode_singleplayer": "シングルプレイ",
+        "lam_mode_multiplayer": "マルチプレイ",
+        "lam_mode_multiplayer_party": "パーティープレイ",
+
+        "lam_fatal": "致命的なエラー"
+    }
+]

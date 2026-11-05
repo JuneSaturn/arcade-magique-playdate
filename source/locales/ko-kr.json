@@ -1,0 +1,66 @@
+[
+    {
+        "lam_title": "아케이드 매직",
+        "lam_locale_lang_current": "한국어",
+        "lam_locale_region_current": "대한민국",
+        "lam_license": "MIT 라이선스",
+
+        "lam_about": "아케이드 매직 정보",
+
+        "lam_std_open": "열기",
+        "lam_std_close": "닫기",
+        "lam_std_continue": "계속",
+        "lam_std_pause": "멈추기",
+        "lam_std_start": "시작",
+        "lam_std_back": "뒤로",
+        "lam_std_ok": "확인",
+        "lam_std_cancel": "취소",
+        "lam_std_yes": "예",
+        "lam_std_no": "아니요",
+        "lam_std_save": "저장",
+        "lam_std_load": "불러오기",
+        "lam_std_delete": "삭제",
+        "lam_std_backup": "백업",
+        
+        "solitaire_klondike_title": "클론다이크",
+        "solitaire_spider_title": "스파이더",
+        "onecard_title": "원카드",
+        "oldmaid_title": "도둑 잡기",
+        "holdem_title": "홀덤 포커",
+        "snake_title": "스네이크",
+        "airhockey_title": "에어 하키",
+        "sudoku_title": "스도쿠",
+        "nonogram_title": "노노그램",
+        "tzfe_title": "2048",
+        "counting_title": "숫자 세기 게임",
+        "draughts_title": "체커",
+        "reversi_title": "리버시",
+        "chess_title": "체스",
+        "gomoku_title": "오목",
+        "backgammon_title": "백개먼",
+
+        "lam_diff": "난이도",
+        "lam_diff_practice": "연습",
+        "lam_diff_easy": "쉬움",
+        "lam_diff_normal": "보통",
+        "lam_diff_hard": "어려움",
+        "lam_diff_veryhard": "매우 어려움",
+
+        "lam_undo": "실행 취소",
+        "lam_redo": "다시 실행",
+
+        "lam_param": "설정",
+        "lam_param_audio": "오디오",
+        "lam_param_video": "비디오",
+        "lam_param_gameplay": "게임플레이",
+        "lam_param_lang": "언어",
+        "lam_param_savedata": "저장 기록",
+        "lam_param_multiplayer": "멀티플레이",
+
+        "lam_mode_singleplayer": "싱글플레이",
+        "lam_mode_multiplayer": "멀티플레이",
+        "lam_mode_multiplayer_party": "파티 플레이",
+
+        "lam_fatal": "치명적인 오류"
+    }
+]

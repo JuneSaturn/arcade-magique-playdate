@@ -1,0 +1,66 @@
+[
+    {
+        "lam_title": "L'Arcade Magique",
+        "lam_locale_lang_current": "Français",
+        "lam_locale_region_current": "France",
+        "lam_license": "Licence MIT",
+
+        "lam_about": "À propos de L'Arcade Magique",
+
+        "lam_std_open": "Ouvrir",
+        "lam_std_close": "Fermer",
+        "lam_std_continue": "Continuer",
+        "lam_std_pause": "Pause",
+        "lam_std_start": "Démarrer",
+        "lam_std_back": "Retour",
+        "lam_std_ok": "OK",
+        "lam_std_cancel": "Annuler",
+        "lam_std_yes": "Oui",
+        "lam_std_no": "Non",
+        "lam_std_save": "Sauvegarder",
+        "lam_std_load": "Charger",
+        "lam_std_delete": "Supprimer",
+        "lam_std_backup": "Sauvegarder une copie",
+
+        "solitaire_klondike_title": "Klondike",
+        "solitaire_spider_title": "Spider",
+        "onecard_title": "Une carte",
+        "oldmaid_title": "Pouilleux",
+        "holdem_title": "Poker Hold'em",
+        "snake_title": "Snake",
+        "airhockey_title": "Air Hockey",
+        "sudoku_title": "Sudoku",
+        "nonogram_title": "Nonogramme",
+        "tzfe_title": "2048",
+        "counting_title": "Le Compteur",
+        "draughts_title": "Dames",
+        "reversi_title": "Reversi",
+        "chess_title": "Échecs",
+        "gomoku_title": "Gomoku",
+        "backgammon_title": "Backgammon",
+
+        "lam_diff": "Difficulté",
+        "lam_diff_practice": "Entraînement",
+        "lam_diff_easy": "Facile",
+        "lam_diff_normal": "Normal",
+        "lam_diff_hard": "Difficile",
+        "lam_diff_veryhard": "Très difficile",
+
+        "lam_undo": "Annuler",
+        "lam_redo": "Rétablir",
+
+        "lam_param": "Paramètres",
+        "lam_param_audio": "Audio",
+        "lam_param_video": "Vidéo",
+        "lam_param_gameplay": "Jouabilité",
+        "lam_param_lang": "Langue",
+        "lam_param_savedata": "Données sauvegardées",
+        "lam_param_multiplayer": "Multijoueur",
+
+        "lam_mode_singleplayer": "Solo",
+        "lam_mode_multiplayer": "Multijoueur",
+        "lam_mode_multiplayer_party": "Partie en groupe",
+
+        "lam_fatal": "ERREUR FATALE"
+    }
+]

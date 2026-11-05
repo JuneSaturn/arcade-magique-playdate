@@ -1,0 +1,66 @@
+[
+    {
+        "lam_title": "Magic Arcade",
+        "lam_locale_lang_current": "English",
+        "lam_locale_region_current": "United Kingdom",
+        "lam_license": "MIT License",
+
+        "lam_about": "About Magic Arcade",
+
+        "lam_std_open": "Open",
+        "lam_std_close": "Close",
+        "lam_std_continue": "Continue",
+        "lam_std_pause": "Pause",
+        "lam_std_start": "Start",
+        "lam_std_back": "Back",
+        "lam_std_ok": "OK",
+        "lam_std_cancel": "Cancel",
+        "lam_std_yes": "Yes",
+        "lam_std_no": "No",
+        "lam_std_save": "Save",
+        "lam_std_load": "Load",
+        "lam_std_delete": "Delete",
+        "lam_std_backup": "Backup",
+
+        "solitaire_klondike_title": "Klondike",
+        "solitaire_spider_title": "Spider",
+        "onecard_title": "One Card",
+        "oldmaid_title": "Old Maid",
+        "holdem_title": "Hold'em Poker",
+        "snake_title": "Snake",
+        "airhockey_title": "Air Hockey",
+        "sudoku_title": "Sudoku",
+        "nonogram_title": "Nonogram",
+        "tzfe_title": "2048",
+        "counting_title": "Counting Game",
+        "draughts_title": "Draughts",
+        "reversi_title": "Reversi",
+        "chess_title": "Chess",
+        "gomoku_title": "Gomoku",
+        "backgammon_title": "Backgammon",
+
+        "lam_diff": "Difficulty",
+        "lam_diff_practice": "Practice",
+        "lam_diff_easy": "Easy",
+        "lam_diff_normal": "Normal",
+        "lam_diff_hard": "Hard",
+        "lam_diff_veryhard": "Very Hard",
+
+        "lam_undo": "Undo",
+        "lam_redo": "Redo",
+
+        "lam_param": "Settings",
+        "lam_param_audio": "Audio",
+        "lam_param_video": "Video",
+        "lam_param_gameplay": "Gameplay",
+        "lam_param_lang": "Language",
+        "lam_param_savedata": "Save Data",
+        "lam_param_multiplayer": "Multiplayer",
+
+        "lam_mode_singleplayer": "Singleplayer",
+        "lam_mode_multiplayer": "Multiplayer",
+        "lam_mode_multiplayer_party": "Party Play",
+
+        "lam_fatal": "FATAL ERROR"
+    }
+]
